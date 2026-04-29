@@ -1,0 +1,1 @@
+FIXED NETLIFY BUILD: index.html is directly inside this folder. Unzip, open the folder, confirm index.html is visible, then drag THIS folder to Netlify.
